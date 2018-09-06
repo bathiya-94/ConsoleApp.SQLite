@@ -1,0 +1,22 @@
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task03\ConsoleApp.SQLite\bin\Debug\netcoreapp2.1\ConsoleApp.SQLite.deps.json
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task03\ConsoleApp.SQLite\bin\Debug\netcoreapp2.1\ConsoleApp.SQLite.runtimeconfig.json
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task03\ConsoleApp.SQLite\bin\Debug\netcoreapp2.1\ConsoleApp.SQLite.runtimeconfig.dev.json
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task03\ConsoleApp.SQLite\bin\Debug\netcoreapp2.1\ConsoleApp.SQLite.dll
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task03\ConsoleApp.SQLite\bin\Debug\netcoreapp2.1\ConsoleApp.SQLite.pdb
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task03\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQLite.csprojAssemblyReference.cache
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task03\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQLite.csproj.CoreCompileInputs.cache
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task03\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQLite.AssemblyInfoInputs.cache
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task03\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQLite.AssemblyInfo.cs
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task03\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQLite.dll
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task03\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQLite.pdb
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task03 - Copy\ConsoleApp.SQLite\bin\Debug\netcoreapp2.1\ConsoleApp.SQLite.deps.json
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task03 - Copy\ConsoleApp.SQLite\bin\Debug\netcoreapp2.1\ConsoleApp.SQLite.runtimeconfig.json
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task03 - Copy\ConsoleApp.SQLite\bin\Debug\netcoreapp2.1\ConsoleApp.SQLite.runtimeconfig.dev.json
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task03 - Copy\ConsoleApp.SQLite\bin\Debug\netcoreapp2.1\ConsoleApp.SQLite.dll
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task03 - Copy\ConsoleApp.SQLite\bin\Debug\netcoreapp2.1\ConsoleApp.SQLite.pdb
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task03 - Copy\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQLite.csprojAssemblyReference.cache
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task03 - Copy\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQLite.csproj.CoreCompileInputs.cache
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task03 - Copy\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQLite.AssemblyInfoInputs.cache
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task03 - Copy\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQLite.AssemblyInfo.cs
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task03 - Copy\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQLite.dll
+D:\Studies\5th Semester\Internet Technologies\assignment1\newproj\task03 - Copy\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQLite.pdb
